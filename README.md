@@ -21,7 +21,8 @@
 - 💼 Trabalhei como banhista em um petshop.
 - 💼 Fui auxiliar administrativa em uma igreja.
 - 💼 Trabalhei como coletora de dados em uma empresa de auditoria de mídia.
-- 💼 Voltei para área administrativa como auxiliar administrativo no escritório onde trabalho atualmente.
+- 💼 Voltei para área administrativa como auxiliar administrativo no escritório Schuck Contabil.
+- 💼 Iniciando minha transição de carreia para área tech como Programadora Low Code.
 
 ## Onde me encontrar
 
