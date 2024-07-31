@@ -4,8 +4,7 @@
 - 🤔 Meus hobbies são pintura numerada com tinta a óleo e fazer amigurumis.
 - 🎓 Estudando Tecnologia em Análise e Desenvolvimento de Sistemas no Centro Universitário Senac.
 - 🎓 Estudando Desenvolvimento Web Full Stack na Growdev.
-- 💼 Trabalhando como auxiliar administrativo no escritório de contabilidade Schuck.
-- 🌱 Em transição de carreira para área Tech.
+- 💼 Programadora Low Code na empresa W3K | Tech Driven Governance.
 
 ## Skills em desenvolvimento - Estudando atualmente
 
