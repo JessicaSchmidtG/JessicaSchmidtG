@@ -2,9 +2,9 @@
 
 - 😄 Meu nome é Jéssica Morgana Schmidt Gonçalves.
 - 🤔 Meus hobbies são pintura numerada com tinta a óleo e fazer amigurumis.
-- 🎓 Estudando Tecnologia em Análise e Desenvolvimento de Sistemas no Centro Universitário Senac.
-- 🎓 Estudando Desenvolvimento Web Full Stack na Growdev.
-- 💼 Programadora Low Code na empresa W3K | Tech Driven Governance.
+- 🎓 Graduada no curso de Tecnologia em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac.
+- 🎓 Pós Graduação de Desenvolvimento FullStack em andamento pela Growdev.
+- 💼 Programadora Low Code na empresa W3K.
 
 ## Skills em desenvolvimento - Estudando atualmente
 
@@ -21,7 +21,7 @@
 - 💼 Trabalhei como banhista em um petshop.
 - 💼 Fui auxiliar administrativa em uma igreja.
 - 💼 Trabalhei como coletora de dados em uma empresa de auditoria de mídia.
-- 💼 Voltei para área administrativa como auxiliar administrativo no escritório Schuck Contabil.
+- 💼 Voltei para área administrativa como auxiliar administrativo em um escritório de contabilidade.
 - 💼 Iniciando minha transição de carreia para área tech como Programadora Low Code.
 
 ## Onde me encontrar
